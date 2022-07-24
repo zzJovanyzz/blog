@@ -1,1 +1,1 @@
-https://github.com/zzJovanyzz/blog
+https://zzjovanyzz.github.io/blog/
